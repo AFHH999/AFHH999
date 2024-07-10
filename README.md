@@ -19,7 +19,7 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/felipe-hidalgo-hern%C3%A1ndez-703b5a1a0/)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/AndrsFe89388701)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](felipehidalgohernandez96@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:felipehidalgohernandez96@gmail.com)
 
 ## 📊 GitHub Stats
 <div align="center">
