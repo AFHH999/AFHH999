@@ -1,6 +1,36 @@
 # 💫 About Me
 
-💫 About Me<br><br>👋 Hi, I’m Andrés<br><br>I’m a Cybersecurity Engineering student from Costa Rica, focused on building strong foundations in Linux, Bash, Python, networking, and cloud computing. My long-term goal is to become a Cloud Security Engineer.<br><br>🔭 I’m currently working on<br><br>Strengthening my foundations in networking, cybersecurity, and cloud<br><br>Practicing with small labs in Linux, Bash, and Python<br><br>Developing personal projects to build my portfolio<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly cybersecurity, automation, or cloud projects<br><br>Open-source tools related to Linux, scripting, or system administration<br><br>🤝 I’m looking for help with<br><br>Learning real-world cloud security practices<br><br>Improving my Azure skills and building better infrastructure projects<br><br>🌱 I’m currently learning<br><br>Cybersecurity Engineering at Universidad Fidélitas<br><br>Azure fundamentals, cloud concepts, and cloud security<br><br>Linux administration and automation scripting<br><br>💬 Ask me about<br><br>Getting started with Linux & Bash<br><br>Basic networking<br><br>Python for automation<br><br>Tips, workflows, and resources for beginners in cybersecurity<br><br>⚡ Fun fact<br>⚡ I sometimes fix problems I caused while fixing other problems. Progress? Absolutely.
+👋 Hi, I’m Andrés
+
+I’m a Cybersecurity Engineering student from Costa Rica, focused on building strong foundations in Linux, Bash, Python, networking, and cloud computing. My long-term goal is to become
+Cloud Security Engineer.
+
+- 🔭 **I’m currently working on**
+  - Strengthening my foundations in networking, cybersecurity, and cloud
+  - Practicing with small labs in Linux, Bash, and Python
+  - Developing personal projects to build my portfolio
+
+- 👯 **I’m looking to collaborate on**
+  - Beginner-friendly cybersecurity, automation, or cloud projects
+  - Open-source tools related to Linux, scripting, or system administration
+
+- 🤝 **I’m looking for help with**
+  - Learning real-world cloud security practices
+  - Improving my Azure skills and building better infrastructure projects
+
+- 🌱 **I’m currently learning**
+  - Cybersecurity Engineering at Universidad Fidélitas
+  - Azure fundamentals, cloud concepts, and cloud security
+  - Linux administration and automation scripting
+
+- 💬 **Ask me about**
+  - Getting started with Linux & Bash
+  - Basic networking
+  - Python for automation
+  - Tips, workflows, and resources for beginners in cybersecurity
+
+- ⚡ **Fun fact**
+  - I sometimes fix problems I caused while fixing other problems. Progress? Absolutely.
 
 # 💻 Tech Stack
 
@@ -11,7 +41,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=AFHH999&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AFHH999&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AFHH999&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
