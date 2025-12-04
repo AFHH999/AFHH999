@@ -23,12 +23,6 @@ Cloud Security Engineer.
   - Azure fundamentals, cloud concepts, and cloud security
   - Linux administration and automation scripting
 
-- 💬 **Ask me about**
-  - Getting started with Linux & Bash
-  - Basic networking
-  - Python for automation
-  - Tips, workflows, and resources for beginners in cybersecurity
-
 - ⚡ **Fun fact**
   - I sometimes fix problems I caused while fixing other problems. Progress? Absolutely.
 
