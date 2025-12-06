@@ -34,4 +34,5 @@ Cloud Security Engineer.
 
 ![](https://github-readme-stats.vercel.app/api?username=AFHH999&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AFHH999&theme=github_dark&hide_border=false)<br/>
+### 🚀 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AFHH999&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
