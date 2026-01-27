@@ -2,8 +2,7 @@
 
 👋 Hi, I’m Andrés
 
-I’m a Cybersecurity Engineering student from Costa Rica, focused on building strong foundations in Linux, Bash, Python, networking, and cloud computing. My long-term goal is to become
-Cloud Security Engineer.
+I’m a Cybersecurity Engineering student from Costa Rica, focused on building strong foundations in Linux, Bash, Python, networking, and cloud computing. My long-term goal is to become a Cloud Security Engineer.
 
 - 🔭 **I’m currently working on**
   - Strengthening my foundations in networking, cybersecurity, and cloud
